@@ -3,10 +3,12 @@
 Software Developer focusing on XR, Unity and interactive systems, with a background in Engineering Physics and Scientific Computing.
 
 ### Interests
-Visualisation, simulation, educational technology and user-centred design.
+Visualisation, simulation, educational technology and user-centered design.
 
 ### Current Project
-Multiplication Adventure – a browser-based educational game exploring gamification, learning and motivation.
+[Play Multiplication Adventure Game](https://rjstenberg.github.io/maths_game/).
+
+A browser-based educational game exploring gamification, learning and motivation.
 
 ### Technologies
 C#, Unity, Python, Java, Matlab
