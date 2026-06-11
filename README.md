@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi 👋
+### About me
+Software Developer focusing on XR, Unity and interactive systems, with a background in Engineering Physics and Scientific Computing.
+
+### Interests
+Visualisation, simulation, educational technology and user-centred design.
+
+### Current Project
+Multiplication Adventure – a browser-based educational game exploring gamification, learning and motivation.
+
+### Technologies
+C#, Unity, Python, Java, Matlab
 
 <!--
 **rjstenberg/rjstenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
