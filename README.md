@@ -5,10 +5,13 @@ Software Developer focusing on XR, Unity and interactive systems, with a backgro
 ### Interests
 Visualisation, simulation, educational technology and user-centered design.
 
-### Current Project
-[Play Multiplication Adventure Game](https://rjstenberg.github.io/maths_game/).
+### Current Projects
 
-A browser-based educational game exploring gamification, learning and motivation.
+#### [Conversation Analytics](https://github.com/rjstenberg/conversation-analytics)
+A Python toolkit for analysing conversational dynamics, applied to sports broadcasts.
+
+#### [Multiplication Adventure Game](https://github.com/rjstenberg/maths_game)
+[Play](https://rjstenberg.github.io/maths_game/) a browser-based educational game exploring gamification, learning and motivation.
 
 ### Technologies
 C#, Unity, Python, Java, Matlab
