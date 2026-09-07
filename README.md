@@ -7,11 +7,11 @@ Visualisation, simulation, educational technology and user-centered design.
 
 ### Current Projects
 
-#### [Conversation Analytics](https://github.com/rjstenberg/conversation-analytics)
+#### Conversation Analytics
 A Python toolkit for analysing conversational dynamics, applied to sports broadcasts.
 
-#### [Multiplication Adventure Game](https://github.com/rjstenberg/maths_game)
-[Play](https://rjstenberg.github.io/maths_game/) a browser-based educational game exploring gamification, learning and motivation.
+#### Multiplication Adventure Game
+[Play](https://rjstenberg.github.io/maths_game/) the browser-based educational game exploring gamification, learning and motivation.
 
 ### Technologies
 C#, Unity, Python, Java, Matlab
